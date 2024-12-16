@@ -1,0 +1,41 @@
+[custom]
+
+ruleset=🎮 游戏平台,https://raw.githubusercontent.com/Meilieage/webcdn/main/rule/list/YouXiPingTai.list
+ruleset=📲 聊天软件,https://raw.githubusercontent.com/Meilieage/webcdn/main/rule/list/LiaoTianRuanJian.list
+ruleset=🎬 巴哈姆特,https://raw.githubusercontent.com/Meilieage/webcdn/main/rule/list/BaHaMuTe.list
+ruleset=🎬 YouTube,https://raw.githubusercontent.com/Meilieage/webcdn/main/rule/list/YOUTUBE.list
+ruleset=🎬 NETFLIX,https://raw.githubusercontent.com/Meilieage/webcdn/main/rule/list/NETFLIX.list
+ruleset=🎬 EMBY,https://raw.githubusercontent.com/Meilieage/webcdn/main/rule/list/Emby.list
+ruleset=🎵 Spotify,https://raw.githubusercontent.com/Meilieage/webcdn/main/rule/list/Spotify.list
+ruleset=🎬 日韩媒体,https://raw.githubusercontent.com/Meilieage/webcdn/main/rule/list/RiHanMeiTi.list
+ruleset=🌏 国外网站,https://raw.githubusercontent.com/Meilieage/webcdn/main/rule/list/GuoWaiWangZhan.list
+ruleset=🧩 微软服务,https://raw.githubusercontent.com/Meilieage/webcdn/main/rule/list/WeiRuanFuWu.list
+ruleset=🍎 苹果服务,https://raw.githubusercontent.com/Meilieage/webcdn/main/rule/list/AppleAll.list
+ruleset=🌏 国内网站,https://raw.githubusercontent.com/Meilieage/webcdn/main/rule/list/GuoNeiWangZhan.list
+ruleset=🌏 国内网站,[]GEOIP,CN
+ruleset=🐟 漏网之鱼,[]FINAL
+
+custom_proxy_group=🇭🇰 香港节点`select`(港|HK|Hong Kong|Hongkong)
+custom_proxy_group=🇯🇵 日本节点`select`(日|东京|大阪|埼玉|JP|Japan)
+custom_proxy_group=🇺🇲 美国节点`select`(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States)
+custom_proxy_group=🇨🇳 台湾节点`select`(台|新北|彰化|TW|Taiwan)
+custom_proxy_group=🇸🇬 狮城节点`select`(坡|狮城|SG|Singapore)
+custom_proxy_group=🇰🇷 韩国节点`select`(KR|Korea|KOR|首尔|韩|韓)
+custom_proxy_group=🌍 其他地区`select`(俄|印|德|英|土|阿|拿|菲|澳|巴|马|Brazil|France|Germany|Luxembourg|Netherlands|Poland|South Africa|Turkey|United Kingdom|Dubai|Ukraine|Italy|Vietnam|Pakistan|Malaysia|India|Argentina|Philippines|Thailand|Turkey|Australia)
+custom_proxy_group=♻️ 手动切换`select`.*
+custom_proxy_group=📲 聊天软件`select`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇰🇷 韩国节点`[]🌍 其他地区`[]♻️ 专线节点`[]♻️ 手动切换`[]DIRECT
+custom_proxy_group=🎬 YouTube`select`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇰🇷 韩国节点`[]🌍 其他地区`[]♻️ 专线节点`[]♻️ 手动切换`[]DIRECT
+custom_proxy_group=🎬 NETFLIX`select`[]🇸🇬 狮城节点`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇨🇳 台湾节点`[]🇰🇷 韩国节点`[]🌍 其他地区`[]♻️ 专线节点`[]♻️ 手动切换`[]DIRECT
+custom_proxy_group=🎬 EMBY`select`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇰🇷 韩国节点`[]🌍 其他地区`[]♻️ 专线节点`[]♻️ 手动切换`[]DIRECT
+custom_proxy_group=🎬 巴哈姆特`select`[]🇨🇳 台湾节点`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇸🇬 狮城节点`[]🇰🇷 韩国节点`[]🌍 其他地区`[]♻️ 专线节点`[]♻️ 手动切换`[]DIRECT
+custom_proxy_group=🎬 日韩媒体`select`[]🇯🇵 日本节点`[]🇭🇰 香港节点`[]🇺🇲 美国节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇰🇷 韩国节点`[]🌍 其他地区`[]♻️ 专线节点`[]♻️ 手动切换`[]DIRECT
+custom_proxy_group=🌏 国外网站`select`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇰🇷 韩国节点`[]🌍 其他地区`[]♻️ 专线节点`[]♻️ 手动切换`[]DIRECT
+custom_proxy_group=🎵 Spotify`select`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇰🇷 韩国节点`[]🌍 其他地区`[]♻️ 专线节点`[]♻️ 手动切换`[]DIRECT
+custom_proxy_group=🍎 苹果服务`select`[]DIRECT`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇰🇷 韩国节点`[]🌍 其他地区`[]♻️ 专线节点`[]♻️ 手动切换
+custom_proxy_group=🧩 微软服务`select`[]DIRECT`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇰🇷 韩国节点`[]🌍 其他地区`[]♻️ 专线节点`[]♻️ 手动切换
+custom_proxy_group=🎮 游戏平台`select`[]DIRECT`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇰🇷 韩国节点`[]🌍 其他地区`[]♻️ 专线节点`[]♻️ 手动切换
+custom_proxy_group=🌏 国内网站`select`[]DIRECT`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇰🇷 韩国节点`[]🌍 其他地区`[]♻️ 专线节点`[]♻️ 手动切换
+custom_proxy_group=🐟 漏网之鱼`select`[]DIRECT`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇰🇷 韩国节点`[]🌍 其他地区`[]♻️ 专线节点`[]♻️ 手动切换
+
+enable_rule_generator=true
+overwrite_original_rules=true
