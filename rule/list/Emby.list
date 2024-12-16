@@ -77,7 +77,6 @@ IP-CIDR,94.130.71.39/24,no-resolve
 IP-CIDR,95.216.227.105/32,no-resolve
 
 DOMAIN-SUFFIX,emby2.misakaf.org
-DOMAIN-SUFFIX,as174.com
 DOMAIN-SUFFIX,pub3.term.wtf
 DOMAIN-SUFFIX,pub2.term.wtf
 DOMAIN-SUFFIX,pub1.term.wtf
