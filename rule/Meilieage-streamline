@@ -15,6 +15,9 @@ ruleset=🌏 国内网站,https://raw.githubusercontent.com/Meilieage/webcdn/mai
 ruleset=🌏 国内网站,[]GEOIP,CN
 ruleset=🐟 漏网之鱼,[]FINAL
 
+custom_proxy_group=剩余流量`select`.*
+custom_proxy_group=重置日期`select`.*
+custom_proxy_group=到期日期`select`.*
 custom_proxy_group=🇭🇰 香港节点`select`(港|HK|Hong Kong|Hongkong)
 custom_proxy_group=🇯🇵 日本节点`select`(日|东京|大阪|埼玉|JP|Japan)
 custom_proxy_group=🇺🇲 美国节点`select`(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States)
