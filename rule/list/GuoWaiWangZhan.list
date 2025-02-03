@@ -1,4 +1,4 @@
-#-----------------GfwList------------------------
+.#-----------------GfwList------------------------
 # MyList && Other
 DOMAIN-SUFFIX,dler.cloud
 DOMAIN-SUFFIX,dlercloud.com
@@ -5877,3 +5877,4 @@ DOMAIN-SUFFIX,reflix.top
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,media-imdb.com
 DOMAIN-SUFFIX,app-analytics-services.com
+DOMAIN-SUFFIX,yingyue.my
