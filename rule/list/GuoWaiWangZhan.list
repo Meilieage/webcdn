@@ -1,4 +1,4 @@
-#-----------------GfwList------------------------
+1#-----------------GfwList------------------------
 # MyList && Other
 DOMAIN-SUFFIX,dler.cloud
 DOMAIN-SUFFIX,dlercloud.com
@@ -5897,3 +5897,4 @@ DOMAIN-SUFFIX,jable.tv
 #DOMAIN-SUFFIX,vvebo.vip
 DOMAIN-SUFFIX,mushroomtrack.com
 #DOMAIN-SUFFIX,ggbboo.xyz
+DOMAIN-SUFFIX,googlevideo
