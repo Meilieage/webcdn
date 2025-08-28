@@ -8,3 +8,4 @@ DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spotifycdn.net
 DOMAIN-SUFFIX,spotilocal.com
 IP-CIDR,35.186.224.47/32,no-resolve
+DOMAIN-SUFFIX,spotifycdn.com
