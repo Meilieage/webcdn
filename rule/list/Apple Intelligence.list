@@ -12,3 +12,9 @@ DOMAIN-SUFFIX, gspe1-ssl.ls.apple.com
 DOMAIN-SUFFIX, smoot.apple.com
 DOMAIN-SUFFIX, apple-relay.akamaized.net
 DOMAIN-SUFFIX, apple-relay.mask.apple-dns.net
+DOMAIN-SUFFIX, apps.mzstatic.com
+DOMAIN-SUFFIX, smoot.apple.com
+DOMAIN-SUFFIX, cp4.cloudflare.com
+DOMAIN-SUFFIX, guzzoni.apple.com
+
+
